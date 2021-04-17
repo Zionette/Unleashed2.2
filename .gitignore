@@ -1,3 +1,5 @@
+# Don't check hugo static files
+public
 # Binaries for programs and plugins
 *.exe
 *.exe~
