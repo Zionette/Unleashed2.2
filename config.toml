@@ -1,4 +1,4 @@
-baseURL = "http://people-unleashed.com/"
+baseURL = "https://people-unleashed.com/"
 languageCode = "en-us"
 title = "People Unleashed"
 theme = "story"
